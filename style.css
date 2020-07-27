@@ -5,27 +5,16 @@
 .nav-link {
     font-size: 24px;
     color: black;
-
 }
 
 .nav-pills {
     color: rgb(67, 67, 67);
 }
 
-/*
-.container {
-    
+.card-body {
+    background-color: grey;
+    color: rgb(59, 58, 58);
 }
-
-.d-block {
-
-}
-
-.w-100 {
-
-}
-
-*/
 
 .carousel-item active {
     background-color: grey;
