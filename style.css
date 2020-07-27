@@ -11,8 +11,9 @@
     color: rgb(67, 67, 67);
 }
 
-.card-body {
-    background-color: grey;
+.card {
+    font-size: 24px;
+    font-style: bold italic;
     color: rgb(59, 58, 58);
 }
 
