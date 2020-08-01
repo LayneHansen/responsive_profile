@@ -12,6 +12,12 @@ Common to all pages are the header card, which displays my name; and the navbar 
 
 The main page utilizes a carousel effect from Bootstrap. There are button controls that allow the user to view a specific slide. There is an image of me so people can see how thoughtful and trustworthy I am ;). There are also images that represent what I will be able to accomplish for them -- an online experience that is both nice to look at and easy to use.
 
+###### link 
+https://laynehansen.github.io/
+
+###### screenshot 
+C:/Users/Layne/Pictures/main_page_screenshot
+
 #### Profile
 
 The profile page provides basic information about me and my interests. It includes a different thoughtful/trustworthy looking picture of me.
