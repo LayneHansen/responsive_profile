@@ -1,10 +1,10 @@
 # responsive_profile
 
-### Purpose
+## Purpose
 
 The purpose of this page is to display myself and my work as a web developer. This network of pages includes the main landing page, profile, contact page, and portfolio. This is the first of many iterations of this project.
 
-### Components
+## Components
 
 Common to all pages are the header card, which displays my name; and the navbar at the bottom, which contains the links to the different pages. I have muted the text of the links to match the subdued look to the page.
 
@@ -51,7 +51,10 @@ https://laynehansen.github.io/portfolio.html
 ![profile page](./images/portfolio_page_screenshot.png)
 
 
-### What I've Learned
+## What I've Learned
 
 Bootstrap is an incredibly powerful tool for beginner developers especially. It allows the developing developer to see the outcome, but also the code that lies behind it. This is very helpful, especially for visual learners. I've also learned that experimentation is important. It helps you learn how to lay out your code in a clean and intuitive way.
+
+#### ***Main page images***
+Thanks to Alvaro Reyes and halacious on unsplash.com.
 
