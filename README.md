@@ -16,11 +16,17 @@ The main page utilizes a carousel effect from Bootstrap. There are button contro
 https://laynehansen.github.io/
 
 ###### screenshot 
-C:/Users/Layne/Pictures/main_page_screenshot
+![main page](./images/main_page_screenshot.png)
 
 #### Profile
 
 The profile page provides basic information about me and my interests. It includes a different thoughtful/trustworthy looking picture of me.
+
+###### link 
+https://laynehansen.github.io/profile.html
+
+###### screenshot
+![profile page](./images/profile_page_screenshot.png)
 
 #### Contact 
 
@@ -28,9 +34,22 @@ The contact page looks simple, but it was probably the most difficult to create.
 
 Perhaps the most important elements on this page are the links to my Github profile, LinkedIn, and I created a Facebook page for my web development. The latter will mostly be used to network my future freelance/contract endeavors, but I created it to create a larger network for the work I want to do.
 
+###### link
+https://laynehansen.github.io/contact.html
+
+###### screenshot
+![profile page](./images/contact_page_screenshot.png)
+
 #### Portfolio
 
 The portfolio page is essentially a placeholder at this point. It even utilizes images from placeholder.com to show the layout of the page as it develops over time ;). 
+
+###### link
+https://laynehansen.github.io/portfolio.html
+
+###### screenshot
+![profile page](./images/portfolio_page_screenshot.png)
+
 
 ### What I've Learned
 
